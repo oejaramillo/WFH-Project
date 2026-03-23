@@ -1,0 +1,16 @@
+id,age,gender,location,email,institution,study_field,adsGroup,adCount,adoptions
+2,22,Femenino,Pudahuel,karla.venegas@uc.cl,Pontificia Universidad Católica De Chile,Ciencias Sociales,1,342,1
+3,23,Femenino,Quilicura,alexiaczs@uc.cl,Pontificia Universidad Católica De Chile,Ciencias Sociales,2,342,2
+4,19,Masculino,La Reina,variosmartinaguirre@gmail.com,Pontificia Universidad Cat�lica De Chile,Arte y Arquitectura,3,342,3
+5,26,Femenino,Las Condes,magda.arismendi@gmail.com,Universidad Diego Portales,Arte y Arquitectura,4,342,4
+34,24,Femenino,Ñuñoa,p.silvaj@uc.cl,Pontificia Universidad Católica De Chile,Ciencias Sociales,5,342,5
+67,21,Femenino,San Joaquín,vrost@uc.cl,Pontificia Universidad Católica De Chile,Ciencias Sociales,6,342,6
+100,30,Femenino,Lo Barnechea,c.aranguizcastillo@gmail.com,Pontificia Universidad Católica De Chile,Sin Área definida,7,342,7
+133,23,Masculino,Quilicura,sebastianvdiaz1@gmail.com,Universidad Diego Portales,Administración y Comercio,8,342,8
+166,23,Masculino,Pudahuel,iossandonc@uc.cl,Pontificia Universidad Católica De Chile,Ciencias Sociales,9,342,9
+199,28,Masculino,Ñuñoa,jtpacheco@uc.cl,Pontificia Universidad Católica De Chile,Humanidades,10,342,10
+232,25,Femenino,Las Condes,javipaz.diaz@uc.cl,Pontificia Universidad Católica De Chile,Ciencias Sociales,11,342,11
+265,24,Masculino,San Bernardo,tsantander@fen.uchile.cl,Universidad De Chile,Administración y Comercio,12,342,12
+298,30,Femenino,Puerto Montt,paulinaariasgarcia@gmail.com,Universidad Austral De Chile,Administración y Comercio,13,342,13
+331,22,Masculino,Maipú,dantegonzalezs@gmail.com,Pontificia Universidad Católica De Chile,Ciencias Sociales,14,342,14
+397,24,Femenino,Isla de Maipo,matilde.arfu@gmail.com,Pontificia Universidad Católica De Chile,Ciencias Sociales,15,342,15
